@@ -1,0 +1,212 @@
+fileFormatVersion: 2
+guid: 645217a6a1da9ad419f300794ee040a1
+timeCreated: 1454153499
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: doner_0
+    21300002: doner_1
+    21300004: doner_2
+    21300006: doner_3
+    21300008: doner_4
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: doner_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1422
+        height: 1467
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 40.5, y: -119}
+        - {x: 70.5, y: -130}
+        - {x: 146.5, y: -92}
+        - {x: 177.5, y: -58}
+        - {x: 172.5, y: 17}
+        - {x: 183.5, y: 101}
+        - {x: 183.5, y: 162}
+        - {x: 131.5, y: 180}
+        - {x: 111.5, y: 189}
+        - {x: 55.5, y: 189}
+        - {x: 30.5, y: 154}
+        - {x: 38.5, y: 96}
+        - {x: 22.5, y: 89}
+        - {x: 5.5, y: 75}
+        - {x: -80.5, y: -24}
+        - {x: -165.5, y: -65}
+        - {x: -183.5, y: -81}
+        - {x: -183.5, y: -189}
+        - {x: -158.5, y: -189}
+        - {x: -152.5, y: -188}
+        - {x: -53.5, y: -99}
+        - {x: 29.5, y: -70}
+        - {x: 25.5, y: -107}
+    - name: doner_1
+      rect:
+        serializedVersion: 2
+        x: 1639
+        y: 95
+        width: 1408
+        height: 1273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 49.319, y: -96.02147}
+        - {x: 79.319, y: -96.02147}
+        - {x: 170.319, y: -41.02147}
+        - {x: 178.319, y: -31.02147}
+        - {x: 172.319, y: 17.97853}
+        - {x: 182.319, y: 70.97853}
+        - {x: 182.319, y: 136.97853}
+        - {x: 146.319, y: 164.97853}
+        - {x: 79.319, y: 164.97853}
+        - {x: 75.319, y: 158.97853}
+        - {x: 48.319, y: 138.97853}
+        - {x: 11.319, y: 104.97853}
+        - {x: -76.681, y: 1.9785309}
+        - {x: -138.681, y: -25.02147}
+        - {x: -180.681, y: -49.02147}
+        - {x: -181.681, y: -73.02147}
+        - {x: -181.681, y: -160.02147}
+        - {x: -179.681, y: -164.02147}
+        - {x: -159.681, y: -164.02147}
+        - {x: -141.681, y: -148.02147}
+        - {x: -2.6809998, y: -48.02147}
+        - {x: 29.319, y: -63.02147}
+    - name: doner_2
+      rect:
+        serializedVersion: 2
+        x: 3272
+        y: 149
+        width: 1408
+        height: 1172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 155.59198, y: 5.892639}
+        - {x: 164.59198, y: 14.892639}
+        - {x: 162.59198, y: 78.89264}
+        - {x: 181.59198, y: 78.89264}
+        - {x: 181.59198, y: 148.89264}
+        - {x: 163.59198, y: 151.89264}
+        - {x: 83.59198, y: 151.89264}
+        - {x: 76.59198, y: 150.89264}
+        - {x: 40.59198, y: 135.89264}
+        - {x: 15.59198, y: 120.89264}
+        - {x: -22.40802, y: 60.89264}
+        - {x: -181.40802, y: -40.10736}
+        - {x: -181.40802, y: -151.10736}
+        - {x: -160.40802, y: -151.10736}
+        - {x: -155.40802, y: -150.10736}
+        - {x: 26.59198, y: -30.10736}
+        - {x: 45.59198, y: -45.10736}
+        - {x: 66.59198, y: -44.10736}
+    - name: doner_3
+      rect:
+        serializedVersion: 2
+        x: 4906
+        y: 149
+        width: 1408
+        height: 1172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 68.62268, y: -7.107361}
+        - {x: 179.62268, y: 65.89264}
+        - {x: 181.62268, y: 76.89264}
+        - {x: 181.62268, y: 151.89264}
+        - {x: 68.62268, y: 151.89264}
+        - {x: 19.62268, y: 128.89264}
+        - {x: -16.37732, y: 67.89264}
+        - {x: -85.37732, y: 10.892639}
+        - {x: -151.37732, y: -19.10736}
+        - {x: -180.37732, y: -43.10736}
+        - {x: -181.37732, y: -62.10736}
+        - {x: -181.37732, y: -149.10736}
+        - {x: -177.37732, y: -151.10736}
+        - {x: -159.37732, y: -151.10736}
+        - {x: -156.37732, y: -148.10736}
+        - {x: -53.37732, y: -63.10736}
+        - {x: 42.62268, y: -27.10736}
+    - name: doner_4
+      rect:
+        serializedVersion: 2
+        x: 6539
+        y: 149
+        width: 1406
+        height: 1172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 152.89563, y: 55.89264}
+        - {x: 182.89563, y: 75.89264}
+        - {x: 182.89563, y: 147.89264}
+        - {x: 178.89563, y: 151.89264}
+        - {x: 76.89563, y: 151.89264}
+        - {x: 30.89563, y: 141.89264}
+        - {x: -35.10437, y: 48.89264}
+        - {x: -164.10437, y: -28.10736}
+        - {x: -179.10437, y: -43.10736}
+        - {x: -181.10437, y: -63.10736}
+        - {x: -181.10437, y: -151.10736}
+        - {x: -144.10437, y: -151.10736}
+        - {x: -52.10437, y: -62.10736}
+        - {x: 52.89563, y: -30.10736}
+        - {x: 98.89563, y: 33.89264}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

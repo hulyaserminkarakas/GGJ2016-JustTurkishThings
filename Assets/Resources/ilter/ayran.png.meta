@@ -1,0 +1,228 @@
+fileFormatVersion: 2
+guid: af2044788e912a04a88d200b1d4c0285
+timeCreated: 1454154102
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: ayran_0
+    21300002: ayran_1
+    21300004: ayran_2
+    21300006: ayran_3
+    21300008: ayran_4
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: ayran_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 49
+        width: 1487
+        height: 1214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 178, y: -65.37538}
+        - {x: 82, y: -6.3753815}
+        - {x: 47, y: 33.62462}
+        - {x: -25, y: 90.62462}
+        - {x: -19, y: 125.62462}
+        - {x: -52, y: 157.62462}
+        - {x: -138, y: 157.62462}
+        - {x: -144, y: 156.62462}
+        - {x: -180, y: 139.62462}
+        - {x: -187, y: 118.62462}
+        - {x: -192, y: 86.62462}
+        - {x: -192, y: 23.624619}
+        - {x: -182, y: -17.375381}
+        - {x: -144, y: -52.37538}
+        - {x: -74, y: -62.37538}
+        - {x: -6, y: -56.37538}
+        - {x: 60, y: -108.37538}
+        - {x: 85, y: -127.37538}
+        - {x: 122, y: -147.37538}
+        - {x: 149, y: -156.37538}
+        - {x: 187, y: -156.37538}
+        - {x: 192, y: -140.37538}
+        - {x: 192, y: -93.37538}
+        - {x: 184, y: -70.37538}
+    - name: ayran_1
+      rect:
+        serializedVersion: 2
+        x: 1611
+        y: 49
+        width: 1492
+        height: 1210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29.433502, y: 96.12462}
+        - {x: -28.433502, y: 124.12462}
+        - {x: -48.433502, y: 157.12462}
+        - {x: -151.4335, y: 157.12462}
+        - {x: -180.4335, y: 137.12462}
+        - {x: -190.4335, y: 123.12462}
+        - {x: -186.4335, y: 95.12462}
+        - {x: -192.4335, y: 76.12462}
+        - {x: -192.4335, y: 28.124619}
+        - {x: -180.4335, y: -14.875381}
+        - {x: -147.4335, y: -49.87538}
+        - {x: -77.4335, y: -54.87538}
+        - {x: -33.433502, y: -31.875381}
+        - {x: 73.5665, y: -119.87538}
+        - {x: 113.5665, y: -143.87538}
+        - {x: 150.5665, y: -155.87538}
+        - {x: 192.5665, y: -155.87538}
+        - {x: 192.5665, y: -72.87538}
+        - {x: 67.5665, y: 9.124619}
+        - {x: 48.566498, y: 36.12462}
+    - name: ayran_2
+      rect:
+        serializedVersion: 2
+        x: 3223
+        y: 49
+        width: 1493
+        height: 1210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 47.390625, y: 34.12462}
+        - {x: -23.609375, y: 98.12462}
+        - {x: -22.609375, y: 125.12462}
+        - {x: -44.609375, y: 155.12462}
+        - {x: -64.609375, y: 157.12462}
+        - {x: -144.60938, y: 157.12462}
+        - {x: -187.60938, y: 128.12462}
+        - {x: -183.60938, y: 88.12462}
+        - {x: -192.60938, y: 71.12462}
+        - {x: -192.60938, y: 17.124619}
+        - {x: -188.60938, y: 3.1246185}
+        - {x: -174.60938, y: -22.875381}
+        - {x: -131.60938, y: -54.87538}
+        - {x: -68.609375, y: -58.87538}
+        - {x: -0.609375, y: -56.87538}
+        - {x: 78.390625, y: -122.87538}
+        - {x: 133.39062, y: -152.87538}
+        - {x: 142.39062, y: -155.87538}
+        - {x: 193.39062, y: -155.87538}
+        - {x: 193.39062, y: -86.87538}
+        - {x: 191.39062, y: -68.87538}
+        - {x: 174.39062, y: -59.87538}
+        - {x: 103.390625, y: -19.875381}
+    - name: ayran_3
+      rect:
+        serializedVersion: 2
+        x: 4836
+        y: 45
+        width: 1492
+        height: 1218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 179.97241, y: -64.90596}
+        - {x: 80.97241, y: -3.90596}
+        - {x: 58.972412, y: 27.09404}
+        - {x: -15.027588, y: 96.09404}
+        - {x: -24.027588, y: 148.09404}
+        - {x: -46.027588, y: 158.09404}
+        - {x: -140.02759, y: 158.09404}
+        - {x: -183.02759, y: 129.09404}
+        - {x: -175.02759, y: 83.09404}
+        - {x: -191.02759, y: 70.09404}
+        - {x: -191.02759, y: 34.09404}
+        - {x: -181.02759, y: -14.90596}
+        - {x: -138.02759, y: -51.90596}
+        - {x: -67.02759, y: -55.90596}
+        - {x: -50.027588, y: -43.90596}
+        - {x: -12.027588, y: -43.90596}
+        - {x: 73.97241, y: -121.90596}
+        - {x: 141.97241, y: -156.90596}
+        - {x: 189.97241, y: -156.90596}
+        - {x: 193.97241, y: -149.90596}
+        - {x: 193.97241, y: -86.90596}
+        - {x: 190.97241, y: -73.90596}
+    - name: ayran_4
+      rect:
+        serializedVersion: 2
+        x: 6452
+        y: 0
+        width: 1487
+        height: 1308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 92.32715, y: -19.5}
+        - {x: 49.32715, y: 22.5}
+        - {x: -21.672852, y: 80.5}
+        - {x: -13.672852, y: 102.5}
+        - {x: -36.67285, y: 147.5}
+        - {x: -80.67285, y: 168.5}
+        - {x: -159.67285, y: 168.5}
+        - {x: -188.67285, y: 138.5}
+        - {x: -179.67285, y: 72.5}
+        - {x: -190.67285, y: 58.5}
+        - {x: -190.67285, y: 27.5}
+        - {x: -182.67285, y: -14.5}
+        - {x: -170.67285, y: -33.5}
+        - {x: -138.67285, y: -64.5}
+        - {x: -66.67285, y: -72.5}
+        - {x: -29.672852, y: -47.5}
+        - {x: 52.32715, y: -113.5}
+        - {x: 93.32715, y: -145.5}
+        - {x: 144.32715, y: -168.5}
+        - {x: 188.32715, y: -168.5}
+        - {x: 192.32715, y: -164.5}
+        - {x: 192.32715, y: -85.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

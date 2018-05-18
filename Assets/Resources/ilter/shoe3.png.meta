@@ -1,0 +1,140 @@
+fileFormatVersion: 2
+guid: 938d637cce489df49b2151179d832824
+timeCreated: 1454165591
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: shoe32_0
+    21300002: shoe32_1
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: shoe32_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 7
+        width: 197
+        height: 533
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 80.5, y: -183.5}
+        - {x: 87.5, y: -153.5}
+        - {x: 87.5, y: -35.5}
+        - {x: 89.5, y: 5.5}
+        - {x: 94.5, y: 57.5}
+        - {x: 98.5, y: 93.5}
+        - {x: 98.5, y: 166.5}
+        - {x: 90.5, y: 213.5}
+        - {x: 75.5, y: 245.5}
+        - {x: 52.5, y: 264.5}
+        - {x: 43.5, y: 266.5}
+        - {x: -9.5, y: 266.5}
+        - {x: -44.5, y: 248.5}
+        - {x: -59.5, y: 237.5}
+        - {x: -88.5, y: 188.5}
+        - {x: -95.5, y: 154.5}
+        - {x: -97.5, y: 144.5}
+        - {x: -98.5, y: 140.5}
+        - {x: -98.5, y: 71.5}
+        - {x: -95.5, y: 33.5}
+        - {x: -69.5, y: -80.5}
+        - {x: -71.5, y: -111.5}
+        - {x: -62.5, y: -163.5}
+        - {x: -34.5, y: -225.5}
+        - {x: -8.5, y: -261.5}
+        - {x: -0.5, y: -266.5}
+        - {x: 24.5, y: -266.5}
+        - {x: 37.5, y: -256.5}
+        - {x: 57.5, y: -232.5}
+        - {x: 70.5, y: -210.5}
+    - name: shoe32_1
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 7
+        width: 197
+        height: 533
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 71.5, y: -107.5}
+        - {x: 70.5, y: -68.5}
+        - {x: 83.5, y: -18.5}
+        - {x: 98.5, y: 51.5}
+        - {x: 98.5, y: 147.5}
+        - {x: 85.5, y: 192.5}
+        - {x: 57.5, y: 239.5}
+        - {x: 20.5, y: 262.5}
+        - {x: 7.5, y: 266.5}
+        - {x: -45.5, y: 266.5}
+        - {x: -58.5, y: 261.5}
+        - {x: -74.5, y: 244.5}
+        - {x: -88.5, y: 213.5}
+        - {x: -98.5, y: 169.5}
+        - {x: -98.5, y: 96.5}
+        - {x: -93.5, y: 54.5}
+        - {x: -90.5, y: 21.5}
+        - {x: -85.5, y: -17.5}
+        - {x: -88.5, y: -57.5}
+        - {x: -88.5, y: -114.5}
+        - {x: -87.5, y: -162.5}
+        - {x: -81.5, y: -184.5}
+        - {x: -58.5, y: -233.5}
+        - {x: -37.5, y: -256.5}
+        - {x: -24.5, y: -266.5}
+        - {x: 1.5, y: -266.5}
+        - {x: 19.5, y: -244.5}
+        - {x: 30.5, y: -231.5}
+        - {x: 62.5, y: -163.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

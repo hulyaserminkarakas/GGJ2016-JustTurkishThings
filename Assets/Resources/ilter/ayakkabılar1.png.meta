@@ -1,0 +1,289 @@
+fileFormatVersion: 2
+guid: fca9ad3c9b276554195fc0815ddcb001
+timeCreated: 1454234058
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: "ayakkab\u0131lar1_0"
+    21300002: "ayakkab\u0131lar1_1"
+    21300004: "ayakkab\u0131lar1_2"
+    21300006: "ayakkab\u0131lar1_3"
+    21300008: "ayakkab\u0131lar1_4"
+    21300010: "ayakkab\u0131lar1_5"
+    21300012: "ayakkab\u0131lar1_6"
+    21300014: "ayakkab\u0131lar1_7"
+    21300016: "ayakkab\u0131lar1_8"
+    21300018: "ayakkab\u0131lar1_9"
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: "ayakkab\u0131lar1_0"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 442
+        height: 1242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 50.5, y: 108.5}
+        - {x: 35.5, y: 165.5}
+        - {x: 23.5, y: 169.5}
+        - {x: -10.5, y: 169.5}
+        - {x: -34.5, y: 141.5}
+        - {x: -53.5, y: 90.5}
+        - {x: -60.5, y: 7.5}
+        - {x: -60.5, y: -118.5}
+        - {x: -44.5, y: -146.5}
+        - {x: -33.5, y: -167.5}
+        - {x: -21.5, y: -169.5}
+        - {x: 30.5, y: -169.5}
+        - {x: 41.5, y: -160.5}
+        - {x: 60.5, y: -125.5}
+        - {x: 60.5, y: -52.5}
+    - name: "ayakkab\u0131lar1_1"
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 0
+        width: 443
+        height: 1242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15.6362915, y: 165.5}
+        - {x: 10.6362915, y: 169.5}
+        - {x: -29.363708, y: 169.5}
+        - {x: -38.36371, y: 166.5}
+        - {x: -51.36371, y: 105.5}
+        - {x: -60.36371, y: -18.5}
+        - {x: -60.36371, y: -123.5}
+        - {x: -52.36371, y: -140.5}
+        - {x: -43.36371, y: -152.5}
+        - {x: -40.36371, y: -169.5}
+        - {x: 40.63629, y: -169.5}
+        - {x: 52.63629, y: -166.5}
+        - {x: 61.63629, y: -129.5}
+        - {x: 61.63629, y: 36.5}
+        - {x: 45.63629, y: 109.5}
+    - name: "ayakkab\u0131lar1_2"
+      rect:
+        serializedVersion: 2
+        x: 1779
+        y: 119
+        width: 356
+        height: 942
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -46.60269, y: 129.46896}
+        - {x: -48.60269, y: 128.46896}
+        - {x: -48.60269, y: -128.53104}
+        - {x: 38.39731, y: -128.53104}
+        - {x: 49.39731, y: -106.53104}
+        - {x: 49.39731, y: 95.46896}
+        - {x: 21.397308, y: 129.46896}
+    - name: "ayakkab\u0131lar1_3"
+      rect:
+        serializedVersion: 2
+        x: 2344
+        y: 130
+        width: 355
+        height: 938
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11.556641, y: 128.97029}
+        - {x: -22.44336, y: 128.97029}
+        - {x: -48.44336, y: 108.97029}
+        - {x: -48.44336, y: -128.02971}
+        - {x: 36.55664, y: -128.02971}
+        - {x: 49.55664, y: -92.02971}
+        - {x: 49.55664, y: -17.029709}
+        - {x: 25.55664, y: 99.97029}
+    - name: "ayakkab\u0131lar1_4"
+      rect:
+        serializedVersion: 2
+        x: 3304
+        y: 152
+        width: 356
+        height: 942
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.508911, y: 129.47296}
+        - {x: -18.508911, y: 123.47296}
+        - {x: -48.50891, y: 36.47296}
+        - {x: -48.50891, y: -92.52704}
+        - {x: -32.50891, y: -128.52704}
+        - {x: 49.49109, y: -128.52704}
+        - {x: 49.49109, y: 123.47296}
+        - {x: 37.49109, y: 129.47296}
+    - name: "ayakkab\u0131lar1_5"
+      rect:
+        serializedVersion: 2
+        x: 3762
+        y: 152
+        width: 356
+        height: 942
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 28.455688, y: 115.47296}
+        - {x: 7.4556885, y: 129.47296}
+        - {x: -23.544312, y: 129.47296}
+        - {x: -43.54431, y: 90.47296}
+        - {x: -48.54431, y: 20.472961}
+        - {x: -48.54431, y: -90.52704}
+        - {x: -36.54431, y: -119.52704}
+        - {x: -30.544312, y: -128.52704}
+        - {x: 25.455688, y: -128.52704}
+        - {x: 47.45569, y: -91.52704}
+        - {x: 49.45569, y: -82.52704}
+        - {x: 49.45569, y: -19.527039}
+    - name: "ayakkab\u0131lar1_6"
+      rect:
+        serializedVersion: 2
+        x: 4755
+        y: 123
+        width: 382
+        height: 1015
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.105835, y: 139.56035}
+        - {x: -33.105835, y: 126.56035}
+        - {x: -52.105835, y: -6.4396515}
+        - {x: -52.105835, y: -108.43965}
+        - {x: -28.105835, y: -138.43965}
+        - {x: 52.894165, y: -138.43965}
+        - {x: 52.894165, y: 128.56035}
+        - {x: 30.894165, y: 139.56035}
+    - name: "ayakkab\u0131lar1_7"
+      rect:
+        serializedVersion: 2
+        x: 5334
+        y: 123
+        width: 382
+        height: 1015
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20.873413, y: 117.56035}
+        - {x: 7.873413, y: 133.56035}
+        - {x: 0.8734131, y: 139.56035}
+        - {x: -29.126587, y: 139.56035}
+        - {x: -52.126587, y: 75.56035}
+        - {x: -52.126587, y: -122.43965}
+        - {x: -44.126587, y: -138.43965}
+        - {x: 20.873413, y: -138.43965}
+        - {x: 25.873413, y: -135.43965}
+        - {x: 52.873413, y: -93.43965}
+        - {x: 52.873413, y: -13.4396515}
+        - {x: 27.873413, y: 108.56035}
+    - name: "ayakkab\u0131lar1_8"
+      rect:
+        serializedVersion: 2
+        x: 6379
+        y: 108
+        width: 425
+        height: 1118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 55.999878, y: 142.46762}
+        - {x: 32.999878, y: 153.46762}
+        - {x: -7.000122, y: 153.46762}
+        - {x: -8.000122, y: 152.46762}
+        - {x: -39.000122, y: 90.46762}
+        - {x: -58.000122, y: -17.53238}
+        - {x: -58.000122, y: -74.53238}
+        - {x: -34.000122, y: -144.53238}
+        - {x: -11.000122, y: -152.53238}
+        - {x: 23.999878, y: -152.53238}
+        - {x: 37.999878, y: -143.53238}
+        - {x: 58.999878, y: -109.53238}
+        - {x: 58.999878, y: 120.46762}
+    - name: "ayakkab\u0131lar1_9"
+      rect:
+        serializedVersion: 2
+        x: 7083
+        y: 86
+        width: 423
+        height: 1114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 41.585205, y: 90.964966}
+        - {x: 18.585205, y: 137.96497}
+        - {x: 6.585205, y: 152.96497}
+        - {x: -29.414795, y: 152.96497}
+        - {x: -54.414795, y: 140.96497}
+        - {x: -57.414795, y: 117.964966}
+        - {x: -57.414795, y: -77.035034}
+        - {x: -56.414795, y: -108.035034}
+        - {x: -42.414795, y: -144.03503}
+        - {x: -23.414795, y: -152.03503}
+        - {x: 23.585205, y: -152.03503}
+        - {x: 34.585205, y: -143.03503}
+        - {x: 58.585205, y: -93.035034}
+        - {x: 58.585205, y: -1.0350342}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

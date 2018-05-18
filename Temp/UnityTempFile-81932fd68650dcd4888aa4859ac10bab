@@ -1,0 +1,174 @@
+/debug:pdbonly
+/optimize+
+/target:library
+/nowarn:0169
+/out:Temp/Assembly-CSharp-firstpass.dll
+/nostdlib+
+/define:NETFX_CORE
+/reference:"C:\Program Files (x86)\Windows Phone Kits\8.1\References\CommonConfiguration\Neutral\Windows.winmd"
+/reference:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\WindowsPhoneApp\v8.1\Microsoft.CSharp.dll"
+/reference:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\WindowsPhoneApp\v8.1\Microsoft.VisualBasic.dll"
+/reference:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\WindowsPhoneApp\v8.1\mscorlib.dll"
+/reference:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\WindowsPhoneApp\v8.1\System.Collections.Concurrent.dll"
+/reference:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\WindowsPhoneApp\v8.1\System.Collections.dll"
+/reference:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\WindowsPhoneApp\v8.1\System.ComponentModel.dll"
+/reference:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\WindowsPhoneApp\v8.1\System.ComponentModel.EventBasedAsync.dll"
+/reference:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\WindowsPhoneApp\v8.1\System.Core.dll"
+/reference:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\WindowsPhoneApp\v8.1\System.Diagnostics.Contracts.dll"
+/reference:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\WindowsPhoneApp\v8.1\System.Diagnostics.Debug.dll"
+/reference:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\WindowsPhoneApp\v8.1\System.Diagnostics.Tools.dll"
+/reference:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\WindowsPhoneApp\v8.1\System.Diagnostics.Tracing.dll"
+/reference:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\WindowsPhoneApp\v8.1\System.dll"
+/reference:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\WindowsPhoneApp\v8.1\System.Dynamic.Runtime.dll"
+/reference:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\WindowsPhoneApp\v8.1\System.Globalization.dll"
+/reference:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\WindowsPhoneApp\v8.1\System.IO.Compression.dll"
+/reference:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\WindowsPhoneApp\v8.1\System.IO.dll"
+/reference:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\WindowsPhoneApp\v8.1\System.Linq.dll"
+/reference:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\WindowsPhoneApp\v8.1\System.Linq.Expressions.dll"
+/reference:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\WindowsPhoneApp\v8.1\System.Linq.Parallel.dll"
+/reference:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\WindowsPhoneApp\v8.1\System.Linq.Queryable.dll"
+/reference:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\WindowsPhoneApp\v8.1\System.Net.dll"
+/reference:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\WindowsPhoneApp\v8.1\System.Net.Http.dll"
+/reference:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\WindowsPhoneApp\v8.1\System.Net.NetworkInformation.dll"
+/reference:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\WindowsPhoneApp\v8.1\System.Net.Primitives.dll"
+/reference:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\WindowsPhoneApp\v8.1\System.Net.Requests.dll"
+/reference:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\WindowsPhoneApp\v8.1\System.Numerics.dll"
+/reference:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\WindowsPhoneApp\v8.1\System.ObjectModel.dll"
+/reference:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\WindowsPhoneApp\v8.1\System.Reflection.dll"
+/reference:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\WindowsPhoneApp\v8.1\System.Reflection.Extensions.dll"
+/reference:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\WindowsPhoneApp\v8.1\System.Reflection.Primitives.dll"
+/reference:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\WindowsPhoneApp\v8.1\System.Resources.ResourceManager.dll"
+/reference:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\WindowsPhoneApp\v8.1\System.Runtime.dll"
+/reference:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\WindowsPhoneApp\v8.1\System.Runtime.Extensions.dll"
+/reference:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\WindowsPhoneApp\v8.1\System.Runtime.InteropServices.dll"
+/reference:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\WindowsPhoneApp\v8.1\System.Runtime.InteropServices.WindowsRuntime.dll"
+/reference:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\WindowsPhoneApp\v8.1\System.Runtime.Numerics.dll"
+/reference:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\WindowsPhoneApp\v8.1\System.Runtime.Serialization.dll"
+/reference:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\WindowsPhoneApp\v8.1\System.Runtime.Serialization.Json.dll"
+/reference:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\WindowsPhoneApp\v8.1\System.Runtime.Serialization.Primitives.dll"
+/reference:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\WindowsPhoneApp\v8.1\System.Runtime.Serialization.Xml.dll"
+/reference:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\WindowsPhoneApp\v8.1\System.Runtime.WindowsRuntime.dll"
+/reference:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\WindowsPhoneApp\v8.1\System.Runtime.WindowsRuntime.UI.Xaml.dll"
+/reference:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\WindowsPhoneApp\v8.1\System.Security.Principal.dll"
+/reference:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\WindowsPhoneApp\v8.1\System.ServiceModel.Web.dll"
+/reference:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\WindowsPhoneApp\v8.1\System.Text.Encoding.dll"
+/reference:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\WindowsPhoneApp\v8.1\System.Text.Encoding.Extensions.dll"
+/reference:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\WindowsPhoneApp\v8.1\System.Text.RegularExpressions.dll"
+/reference:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\WindowsPhoneApp\v8.1\System.Threading.dll"
+/reference:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\WindowsPhoneApp\v8.1\System.Threading.Tasks.dll"
+/reference:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\WindowsPhoneApp\v8.1\System.Threading.Tasks.Parallel.dll"
+/reference:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\WindowsPhoneApp\v8.1\System.Threading.Timer.dll"
+/reference:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\WindowsPhoneApp\v8.1\System.Windows.dll"
+/reference:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\WindowsPhoneApp\v8.1\System.Xml.dll"
+/reference:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\WindowsPhoneApp\v8.1\System.Xml.Linq.dll"
+/reference:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\WindowsPhoneApp\v8.1\System.Xml.ReaderWriter.dll"
+/reference:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\WindowsPhoneApp\v8.1\System.Xml.Serialization.dll"
+/reference:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\WindowsPhoneApp\v8.1\System.Xml.XDocument.dll"
+/reference:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\WindowsPhoneApp\v8.1\System.Xml.XmlSerializer.dll"
+/reference:"C:\Program Files\Unity\Editor\Data\PlaybackEngines\MetroSupport\Managed\Phone\WinRTLegacy.dll"
+C:\Users\ilter\AppData\Local\Temp\WindowsPhoneApp,Version=v8.1.AssemblyAttributes.cs
+/reference:"C:\Program Files\Unity\Editor\Data\PlaybackEngines\MetroSupport/Managed/Phone/UnityEngine.dll"
+/reference:"C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/Standalone/UnityEngine.UI.dll"
+/reference:"C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/Networking/Standalone/UnityEngine.Networking.dll"
+/define:UNITY_5_3_2
+/define:UNITY_5_3
+/define:UNITY_5
+/define:ENABLE_NEW_BUGREPORTER
+/define:ENABLE_AUDIO
+/define:ENABLE_CACHING
+/define:ENABLE_CLOTH
+/define:ENABLE_FRAME_DEBUGGER
+/define:ENABLE_GENERICS
+/define:ENABLE_HOME_SCREEN
+/define:ENABLE_IMAGEEFFECTS
+/define:ENABLE_LIGHT_PROBES_LEGACY
+/define:ENABLE_MICROPHONE
+/define:ENABLE_MULTIPLE_DISPLAYS
+/define:ENABLE_PHYSICS
+/define:ENABLE_PLUGIN_INSPECTOR
+/define:ENABLE_SHADOWS
+/define:ENABLE_SINGLE_INSTANCE_BUILD_SETTING
+/define:ENABLE_SPRITERENDERER_FLIPPING
+/define:ENABLE_SPRITES
+/define:ENABLE_SPRITE_POLYGON
+/define:ENABLE_TERRAIN
+/define:ENABLE_UNET
+/define:ENABLE_UNITYEVENTS
+/define:ENABLE_VR
+/define:ENABLE_WEBCAM
+/define:ENABLE_WWW
+/define:ENABLE_CLOUD_SERVICES
+/define:ENABLE_CLOUD_SERVICES_ADS
+/define:ENABLE_CLOUD_HUB
+/define:ENABLE_CLOUD_PROJECT_ID
+/define:ENABLE_CLOUD_SERVICES_PURCHASING
+/define:ENABLE_CLOUD_SERVICES_ANALYTICS
+/define:ENABLE_CLOUD_SERVICES_UNET
+/define:ENABLE_CLOUD_SERVICES_BUILD
+/define:ENABLE_CLOUD_LICENSE
+/define:ENABLE_EDITOR_METRICS
+/define:ENABLE_EDITOR_METRICS_CACHING
+/define:INCLUDE_DYNAMIC_GI
+/define:INCLUDE_GI
+/define:INCLUDE_IL2CPP
+/define:INCLUDE_DIRECTX12
+/define:RENDER_SOFTWARE_CURSOR
+/define:ENABLE_LOCALIZATION
+/define:ENABLE_ANDROID_ATLAS_ETC1_COMPRESSION
+/define:ENABLE_EDITOR_TESTS_RUNNER
+/define:UNITY_METRO
+/define:UNITY_METRO_API
+/define:UNITY_WINRT
+/define:ENABLE_WINRT_PINVOKE
+/define:ENABLE_TEXTUREID_MAP
+/define:ENABLE_LAZY_METHOD_CACHING
+/define:ENABLE_MOVIES
+/define:ENABLE_CRUNCH_TEXTURE_COMPRESSION
+/define:ENABLE_EVENT_QUEUE
+/define:ENABLE_NETWORK
+/define:UNITY_PLATFORM_THREAD_TO_CORE_MAPPING
+/define:PLATFORM_SUPPORTS_ADS_ID
+/define:UNITY_WSA
+/define:ENABLE_DOTNET
+/define:UNITY_WP_8_1
+/define:UNITY_WINRT_8_1
+/define:MOBILE_INPUT
+"Assets\Standard Assets\2D\Scripts\Camera2DFollow.cs"
+"Assets\Standard Assets\2D\Scripts\CameraFollow.cs"
+"Assets\Standard Assets\2D\Scripts\Platformer2DUserControl.cs"
+"Assets\Standard Assets\2D\Scripts\PlatformerCharacter2D.cs"
+"Assets\Standard Assets\2D\Scripts\Restarter.cs"
+"Assets\Standard Assets\CrossPlatformInput\Scripts\AxisTouchButton.cs"
+"Assets\Standard Assets\CrossPlatformInput\Scripts\ButtonHandler.cs"
+"Assets\Standard Assets\CrossPlatformInput\Scripts\CrossPlatformInputManager.cs"
+"Assets\Standard Assets\CrossPlatformInput\Scripts\InputAxisScrollbar.cs"
+"Assets\Standard Assets\CrossPlatformInput\Scripts\Joystick.cs"
+"Assets\Standard Assets\CrossPlatformInput\Scripts\MobileControlRig.cs"
+"Assets\Standard Assets\CrossPlatformInput\Scripts\PlatformSpecific\MobileInput.cs"
+"Assets\Standard Assets\CrossPlatformInput\Scripts\PlatformSpecific\StandaloneInput.cs"
+"Assets\Standard Assets\CrossPlatformInput\Scripts\TiltInput.cs"
+"Assets\Standard Assets\CrossPlatformInput\Scripts\TouchPad.cs"
+"Assets\Standard Assets\CrossPlatformInput\Scripts\VirtualInput.cs"
+"Assets\Standard Assets\Utility\ActivateTrigger.cs"
+"Assets\Standard Assets\Utility\AutoMobileShaderSwitch.cs"
+"Assets\Standard Assets\Utility\AutoMoveAndRotate.cs"
+"Assets\Standard Assets\Utility\CameraRefocus.cs"
+"Assets\Standard Assets\Utility\CurveControlledBob.cs"
+"Assets\Standard Assets\Utility\DragRigidbody.cs"
+"Assets\Standard Assets\Utility\DynamicShadowSettings.cs"
+"Assets\Standard Assets\Utility\EventSystemChecker.cs"
+"Assets\Standard Assets\Utility\FOVKick.cs"
+"Assets\Standard Assets\Utility\FPSCounter.cs"
+"Assets\Standard Assets\Utility\FollowTarget.cs"
+"Assets\Standard Assets\Utility\ForcedReset.cs"
+"Assets\Standard Assets\Utility\LerpControlledBob.cs"
+"Assets\Standard Assets\Utility\ObjectResetter.cs"
+"Assets\Standard Assets\Utility\ParticleSystemDestroyer.cs"
+"Assets\Standard Assets\Utility\PlatformSpecificContent.cs"
+"Assets\Standard Assets\Utility\SimpleActivatorMenu.cs"
+"Assets\Standard Assets\Utility\SimpleMouseRotator.cs"
+"Assets\Standard Assets\Utility\SmoothFollow.cs"
+"Assets\Standard Assets\Utility\TimedObjectActivator.cs"
+"Assets\Standard Assets\Utility\TimedObjectDestructor.cs"
+"Assets\Standard Assets\Utility\WaypointCircuit.cs"
+"Assets\Standard Assets\Utility\WaypointProgressTracker.cs"
